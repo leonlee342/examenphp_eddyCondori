@@ -1,3 +1,10 @@
+## SOLUCION EXAMEN PHP
+1.Para soluciona el problema primero se instalo la carpeta vendor.
+2.Luego de genero un id para realizar la migracion a la base de datos.
+3.Por ultimo se realizo la migracion a la base de datos.
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
